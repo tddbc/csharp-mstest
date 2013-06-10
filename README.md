@@ -10,6 +10,11 @@ TDDBC for C# with MSTest
 
 # ライセンス
 
+Copyright 2013 TDD BaseCamp and other contributors.
+
+- http://devtesting.jp/tddbc/
+- https://github.com/tddbc
+
 [NYSL](http://www.kmonos.net/nysl/)
 
 	NYSL Version 0.9982
@@ -26,7 +31,7 @@ TDDBC for C# with MSTest
 	B. このソフトを利用することによって生じた損害等について、作者は
 	   責任を負わないものとします。各自の責任においてご利用下さい。
 	
-	C. 著作者人格権は 高野 将 に帰属します。著作権は放棄します。
+	C. 著作者人格権は TDD Base Camp および他の提供者 に帰属します。著作権は放棄します。
 	
 	D. 以上の３項は、ソース・実行バイナリの双方に適用されます。
 	
@@ -49,7 +54,7 @@ TDDBC for C# with MSTest
 	  "AS IS". No warranty of any kind is expressed or implied.
 	  You use AT YOUR OWN RISK.
 	
-	C. Copyrighted to TAKANO Sho.
+	C. Copyrighted to TDD Base Camp and other contributors.
 	
 	D. Above three clauses are applied both to source and binary
 	  form of this software.
