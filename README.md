@@ -1,4 +1,4 @@
-csharp-mstest
+TDDBC for C# with MSTest
 =============
 
-TDDBC for C# with MSTest
+これは、TDDBCのC#向けMSTestプロジェクトです。
