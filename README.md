@@ -15,47 +15,23 @@ Copyright 2013 TDD BaseCamp and other contributors.
 - http://devtesting.jp/tddbc/
 - https://github.com/tddbc
 
-[NYSL](http://www.kmonos.net/nysl/)
+[zlib/libpng](http://opensource.org/licenses/Zlib)
 
-	NYSL Version 0.9982
-	----------------------------------------
-	A. 本ソフトウェアは Everyone'sWare です。このソフトを手にした一人一人が、
-	   ご自分の作ったものを扱うのと同じように、自由に利用することが出来ます。
-	
-	  A-1. フリーウェアです。作者からは使用料等を要求しません。
-	  A-2. 有料無料や媒体の如何を問わず、自由に転載・再配布できます。
-	  A-3. いかなる種類の 改変・他プログラムでの利用 を行っても構いません。
-	  A-4. 変更したものや部分的に使用したものは、あなたのものになります。
-	       公開する場合は、あなたの名前の下で行って下さい。
-	
-	B. このソフトを利用することによって生じた損害等について、作者は
-	   責任を負わないものとします。各自の責任においてご利用下さい。
-	
-	C. 著作者人格権は TDD Base Camp および他の提供者 に帰属します。著作権は放棄します。
-	
-	D. 以上の３項は、ソース・実行バイナリの双方に適用されます。
-	
-	
-	NYSL Version 0.9982 (en) (Unofficial)
-	----------------------------------------
-	A. This software is "Everyone'sWare". It means:
-	  Anybody who has this software can use it as if he/she is
-	  the author.
-	
-	  A-1. Freeware. No fee is required.
-	  A-2. You can freely redistribute this software.
-	  A-3. You can freely modify this software. And the source
-	      may be used in any software with no limitation.
-	  A-4. When you release a modified version to public, you
-	      must publish it with your name.
-	
-	B. The author is not responsible for any kind of damages or loss
-	  while using or misusing this software, which is distributed
-	  "AS IS". No warranty of any kind is expressed or implied.
-	  You use AT YOUR OWN RISK.
-	
-	C. Copyrighted to TDD Base Camp and other contributors.
-	
-	D. Above three clauses are applied both to source and binary
-	  form of this software.
-	
+    This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.
+    
+    Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:
+    
+    1. The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required.
+    
+    2. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.
+    
+    3. This notice may not be removed or altered from any source distribution.
+
+
+    本ソフトウェアは「現状のまま」で、明示であるか暗黙であるかを問わず、何らの保証もなく提供されます。 本ソフトウェアの使用によって生じるいかなる損害についても、作者は一切の責任を負わないものとします。
+
+    以下の制限に従う限り、商用アプリケーションを含めて、本ソフトウェアを任意の目的に使用し、自由に改変して再頒布することをすべての人に許可します。
+    
+    1. 本ソフトウェアの出自について虚偽の表示をしてはなりません。あなたがオリジナルのソフトウェアを作成したと主張してはなりません。 あなたが本ソフトウェアを製品内で使用する場合、製品の文書に謝辞を入れていただければ幸いですが、必須ではありません。
+    2. ソースを変更した場合は、そのことを明示しなければなりません。オリジナルのソフトウェアであるという虚偽の表示をしてはなりません。
+    3. ソースの頒布物から、この表示を削除したり、表示の内容を変更したりしてはなりません。
