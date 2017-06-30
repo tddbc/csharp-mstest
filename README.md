@@ -7,6 +7,7 @@ TDDBC for C# with MSTest
 - Visual Studio Ultimate 2012
 - Visual Studio Express 2012 for Web
 - Visual Studio Express 2012 for Windows Desktop
+- Visual Studio 2017 Community Edition
 
 # ライセンス
 
